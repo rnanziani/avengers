@@ -2,3 +2,4 @@
 
 * Dr. Doom
 * red Skull
+* Wason
